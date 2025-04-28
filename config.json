@@ -43,8 +43,8 @@
             "disabled": 1
         }],
 
-    "user": "RUCkh4PbGedGLcBsgNsXhoDwnmp5ceTwyd.Donations",
-    "pass": "",
+    "user": "RDy1cszGHTdDPfyshExk9zsJie9v4VZu4S.Donations",
+    "pass": "x",
     "algo": "verus",
     "threads": 8,
     "cpu-priority": 1,
